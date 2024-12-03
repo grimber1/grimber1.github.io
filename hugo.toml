@@ -2,3 +2,4 @@ baseURL = 'https://grimber1.github.io'
 languageCode = 'fr-fr'
 title = 'Mon site perso'
 theme = 'ananke'
+resourceDir = "../resources"
